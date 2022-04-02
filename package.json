@@ -1,5 +1,9 @@
 {
   "name": "SistemaArmazenamento",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@excid3/uppy-activestorage-upload": "https://github.com/excid3/uppy-activestorage-upload.git",
+    "@uppy/core": "^2.1.7",
+    "@uppy/dashboard": "^2.1.4"
+  }
 }
